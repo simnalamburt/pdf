@@ -8,3 +8,5 @@ PDF Archive
 1.  [Identifying Back Doors, Attack Points, and Surveillance Mechanisms in iOS Devices](https://cdn.rawgit.com/simnalamburt/pdf/master/ios_backdoor.pdf)
 1.  [서울행법 2010구합16110](https://cdn.rawgit.com/simnalamburt/pdf/4284f327/%EC%84%9C%EC%9A%B8%ED%96%89%EB%B2%95%202010%EA%B5%AC%ED%95%A916110.pdf)
 1.  [서울고법 2010누34639](https://cdn.rawgit.com/simnalamburt/pdf/4284f327/%EC%84%9C%EC%9A%B8%EA%B3%A0%EB%B2%95%202010%EB%88%8434639.pdf)
+1.  2017헌바127 결정요지
+1.  2017헌바127 결정문 초고
