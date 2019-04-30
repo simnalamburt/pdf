@@ -10,3 +10,4 @@ PDF Archive
 1.  [서울고법 2010누34639](https://rawcdn.githack.com/simnalamburt/pdf/790b4944/%EC%84%9C%EC%9A%B8%EA%B3%A0%EB%B2%95%202010%EB%88%8434639.pdf)
 1.  [2017헌바127 결정요지](https://rawcdn.githack.com/simnalamburt/pdf/790b4944/2017%ED%97%8C%EB%B0%94127%20%EA%B2%B0%EC%A0%95%EC%9A%94%EC%A7%80.pdf)
 1.  [2017헌바127 결정문 초고](https://rawcdn.githack.com/simnalamburt/pdf/790b4944/2017%ED%97%8C%EB%B0%94127%20%EA%B2%B0%EC%A0%95%EB%AC%B8%20%EC%B4%88%EA%B3%A0.pdf)
+1.  [한국소비자원 락스 사고 안전 정보](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@master/NaOCl.pdf)
