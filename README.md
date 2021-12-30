@@ -16,3 +16,4 @@ PDF Archive
 1.  [Cuckoo Filter: Practically Better Than Bloom](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@master/conext14_cuckoofilter.pdf)
 1.  [한국 국회의원의 다차원 정책공간 분석: 이념으로서의 W-NOMINATE 추정치 검증](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@master/%EA%B5%AC%EB%B3%B8%EC%83%812016.pdf)
 1.  [다차원 이상점 추론(ideal point estimation)을 통한 투표 분석 : 유엔총회 사례를 중심으로](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@master/%EC%8B%A0%EC%88%98%EC%95%882019.pdf)
+1.  [삼성 스마트 오븐 (MC28H5015N*) 사용설명서](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@master/MC28H5015N-manual.pdf)
