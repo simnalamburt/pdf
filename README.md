@@ -24,4 +24,5 @@ PDF Archive
 1.  [저출산고령화대책 성과분석](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EC%A0%80%EC%B6%9C%EC%82%B0%EA%B3%A0%EB%A0%B9%ED%99%94%EB%8C%80%EC%B1%85%20%EC%84%B1%EA%B3%BC%EB%B6%84%EC%84%9D.pdf)
 1.  [한국보건사회연구원, 2021년 가족과 출산 조사](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EC%97%B0%EA%B5%AC%EB%B3%B4%EA%B3%A0%EC%84%9C%202021-50.pdf)
 1.  [용수절약을 위한 SRI 벼재배 적용성 연구(II)](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EC%9A%A9%EC%88%98%EC%A0%88%EC%95%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20SRI%20%EB%B2%BC%EC%9E%AC%EB%B0%B0%20%EC%A0%81%EC%9A%A9%EC%84%B1%20%EC%97%B0%EA%B5%AC%28II%29.pdf)
-1.  [금융보안원 전자금융과 금융보안 제13호 2018-07.pdf](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EA%B8%88%EC%9C%B5%EB%B3%B4%EC%95%88%EC%9B%90%20%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B3%BC%20%EA%B8%88%EC%9C%B5%EB%B3%B4%EC%95%88%20%EC%A0%9C13%ED%98%B8%202018-07.pdf)
+1.  [금융보안원 전자금융과 금융보안 제13호 2018-07](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EA%B8%88%EC%9C%B5%EB%B3%B4%EC%95%88%EC%9B%90%20%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B3%BC%20%EA%B8%88%EC%9C%B5%EB%B3%B4%EC%95%88%20%EC%A0%9C13%ED%98%B8%202018-07.pdf)
+1.  [삼성증권 Future of Pyaments 미국편](https://cdn.jsdelivr.net/gh/simnalamburt/pdf@main/%EC%82%BC%EC%84%B1%EC%A6%9D%EA%B6%8C%20Future%20of%20Pyaments%20%EB%AF%B8%EA%B5%AD%ED%8E%B8.pdf)
